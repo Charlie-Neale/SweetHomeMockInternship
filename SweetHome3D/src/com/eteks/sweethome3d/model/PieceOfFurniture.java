@@ -42,6 +42,8 @@ public interface PieceOfFurniture {
    */
   public String getInformation();
 
+  public float getVolume();
+
   /**
    * Returns the depth of this piece of furniture.
    */
